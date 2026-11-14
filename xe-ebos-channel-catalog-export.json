@@ -1,0 +1,3116 @@
+{
+  "title": "XE-EBOS Channel Selection Catalog",
+  "version": "2026-11-13",
+  "channel_count": 365,
+  "collection_count": 31,
+  "notes": [
+    "Channel names and category metadata only; stream URLs and tokens are intentionally excluded.",
+    "Source playback labels are not independently verified.",
+    "Check rights and availability before redistribution or customer fulfillment."
+  ],
+  "bonus_slots": [
+    "FOX Weather",
+    "USA News",
+    "Two-ZIP Local News"
+  ],
+  "collections": [
+    {
+      "roman": "I",
+      "name": "All Sports",
+      "channels": [
+        "CBS Sports HQ",
+        "NFL Channel",
+        "The NBA Channel",
+        "ESPN8: The Ocho"
+      ]
+    },
+    {
+      "roman": "II",
+      "name": "Fight Night",
+      "channels": [
+        "DAZN Ringside",
+        "TVS Boxing",
+        "Top Rank Classics",
+        "ESPN8: The Ocho"
+      ]
+    },
+    {
+      "roman": "III",
+      "name": "Game Day",
+      "channels": [
+        "CBS Sports Golazo",
+        "NFL Channel",
+        "The NBA Channel",
+        "NBC Sports NOW"
+      ]
+    },
+    {
+      "roman": "IV",
+      "name": "Sports Mix",
+      "channels": [
+        "Women's Sports Network",
+        "CBS Sports Golazo",
+        "Strongman Champions League",
+        "NBC Sports NOW"
+      ]
+    },
+    {
+      "roman": "V",
+      "name": "Black Cinema",
+      "channels": [
+        "Maverick Black Cinema",
+        "ALLBLK Gems",
+        "FilmRise Black TV",
+        "Ebony TV by Lionsgate"
+      ]
+    },
+    {
+      "roman": "VI",
+      "name": "Movie Mix",
+      "channels": [
+        "MovieSphere",
+        "Hallmark Movies & More",
+        "Documentary+",
+        "Maverick Black Cinema"
+      ]
+    },
+    {
+      "roman": "VII",
+      "name": "Westerns",
+      "channels": [
+        "FilmRise Western",
+        "GRIT",
+        "INSP",
+        "Western Classics"
+      ]
+    },
+    {
+      "roman": "VIII",
+      "name": "Crime & Reality",
+      "channels": [
+        "Dateline 24/7",
+        "Cold Case Files",
+        "Court TV",
+        "A&E Crime 360"
+      ]
+    },
+    {
+      "roman": "IX",
+      "name": "Alien Encounters",
+      "channels": [
+        "Alien Nation by DUST",
+        "Ancient Aliens",
+        "Pluto TV Invasion Alien",
+        "Beyond Paranormal"
+      ]
+    },
+    {
+      "roman": "X",
+      "name": "Gossip & Talk",
+      "channels": [
+        "Love & Marriage",
+        "Love After Lockup We TV",
+        "World of Love Island",
+        "Love after Lockup"
+      ]
+    },
+    {
+      "roman": "XI",
+      "name": "Movie Night",
+      "channels": [
+        "MovieSphere by Lionsgate",
+        "FilmRise Free Movies",
+        "Gravitas Movies",
+        "Fresh Movies"
+      ]
+    },
+    {
+      "roman": "XII",
+      "name": "Premium-Style Cinema",
+      "channels": [
+        "MGM Presents: Horror",
+        "AMC Thrillers",
+        "Lifetime Movie Favorites",
+        "MGM Presents: Westerns"
+      ]
+    },
+    {
+      "roman": "XIII",
+      "name": "Scary Nights",
+      "channels": [
+        "FilmRise Horror",
+        "Horror by ALTER",
+        "American Horrors",
+        "Horror Stories"
+      ]
+    },
+    {
+      "roman": "XIV",
+      "name": "Investigations",
+      "channels": [
+        "Dateline 24/7",
+        "FilmRise True Crime",
+        "Crime Scene TV",
+        "Real Crime Uncovered"
+      ]
+    },
+    {
+      "roman": "XV",
+      "name": "Nature Escape",
+      "channels": [
+        "Love Nature",
+        "PBS Nature",
+        "Nature Time",
+        "Stingray Naturescape"
+      ]
+    },
+    {
+      "roman": "XVI",
+      "name": "Stingray Music",
+      "channels": [
+        "Stingray Greatest Hits",
+        "Stingray Soul Storm",
+        "Stingray Hot Country",
+        "Stingray DJAZZ"
+      ]
+    },
+    {
+      "roman": "XVII",
+      "name": "Cops & Courtroom",
+      "channels": [
+        "COPS",
+        "COPS Reloaded",
+        "Court TV",
+        "Paternity Court"
+      ]
+    },
+    {
+      "roman": "XVIII",
+      "name": "Love Stories",
+      "channels": [
+        "Runtime Romance",
+        "Sparkle Movies - Light & Love",
+        "Lifetime Movies Love & Drama",
+        "GREAT! romance"
+      ]
+    },
+    {
+      "roman": "XIX",
+      "name": "Tearjerker Drama",
+      "channels": [
+        "Lifetime Movies",
+        "Lifetime Movie Favorites",
+        "Runtime Romance",
+        "Spark TV Light & Love"
+      ]
+    },
+    {
+      "roman": "XX",
+      "name": "Holiday Magic",
+      "channels": [
+        "GREAT! Christmas",
+        "Always Christmas",
+        "Stingray Holidayscapes",
+        "Pluto TV Christmas tutto l'anno"
+      ]
+    },
+    {
+      "roman": "XXI",
+      "name": "Summer Vibes",
+      "channels": [
+        "Summer of Movies",
+        "Stingray Hot Country",
+        "Stingray Greatest Hits",
+        "Nature Moments"
+      ]
+    },
+    {
+      "roman": "XXII",
+      "name": "Mystery & Suspense",
+      "channels": [
+        "Ion Mystery",
+        "Great! Mystery",
+        "Runtime Thriller",
+        "AMC Thrillers"
+      ]
+    },
+    {
+      "roman": "XXIII",
+      "name": "Cooking & Food",
+      "channels": [
+        "Cooking Panda",
+        "Home Cooking",
+        "BBC Food",
+        "PBS Food"
+      ]
+    },
+    {
+      "roman": "XXIV",
+      "name": "Home & Garden",
+      "channels": [
+        "Homeful",
+        "BBC Home & Garden",
+        "Garden with Monty Don",
+        "Home.Made.Nation"
+      ]
+    },
+    {
+      "roman": "XXV",
+      "name": "Classic TV",
+      "channels": [
+        "FilmRise Classic TV",
+        "PBS Retro",
+        "Classic Doctor Who",
+        "Classic Family Feud"
+      ]
+    },
+    {
+      "roman": "XXVI",
+      "name": "Black Family Entertainment",
+      "channels": [
+        "AfroLand TV",
+        "BlackPix",
+        "Shades of Black",
+        "Pam Grier's Soul Flix"
+      ]
+    },
+    {
+      "roman": "XXVII",
+      "name": "Sci-Fi & Fantasy",
+      "channels": [
+        "FilmRise Sci-Fi",
+        "BBC Sci-Fi",
+        "Top Sci-Fi",
+        "Space & Beyond"
+      ]
+    },
+    {
+      "roman": "XXVIII",
+      "name": "Documentaries",
+      "channels": [
+        "Documentary+",
+        "PBS History",
+        "PBS Science",
+        "History Hit"
+      ]
+    },
+    {
+      "roman": "XXIX",
+      "name": "Reality Drama",
+      "channels": [
+        "All Reality We TV",
+        "AMC Reality",
+        "BET x Tyler Perry Drama",
+        "Family Unscripted"
+      ]
+    },
+    {
+      "roman": "XXX",
+      "name": "Kids & Family",
+      "channels": [
+        "FilmRise Kids",
+        "KidsFlix",
+        "Kids Movie Club",
+        "Pluto TV Family Movie Club"
+      ]
+    },
+    {
+      "roman": "XXXI",
+      "name": "Spiritual & Wellness",
+      "channels": [
+        "ZenLIFE by Stingray",
+        "Stingray Naturescape",
+        "Nature Moments",
+        "PBS Nature"
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "name": "50 Cent Action",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "A&E Alaska State Troopers",
+      "category": "Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "A&E Crime 360",
+      "category": "Crime & Reality",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VIII · Crime & Reality"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ABC News Live",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ACCDN",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Action Hollywood Movies — Samsung NZ Copy",
+      "category": "Action Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "AfroLand TV",
+      "category": "Black Family Entertainment",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVI · Black Family Entertainment"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "AFV",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Alien Nation by DUST",
+      "category": "Alien Encounters",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "IX · Alien Encounters"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "All Reality We TV",
+      "category": "Reality Drama",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIX · Reality Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ALLBLK Gems",
+      "category": "Black Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "V · Black Cinema"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Allo Cine",
+      "category": "Movies / International",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Always Christmas",
+      "category": "Holiday Magic",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XX · Holiday Magic"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Always Funny",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "AMC Reality",
+      "category": "Reality Drama",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIX · Reality Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "AMC Thrillers",
+      "category": "Premium-Style Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XII · Premium-Style Cinema",
+        "XXII · Mystery & Suspense"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "American Horrors",
+      "category": "Scary Nights",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIII · Scary Nights"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Ancient Aliens",
+      "category": "Alien Encounters",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "IX · Alien Encounters"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Anger Management Channel",
+      "category": "Comedy / Series",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Animation+",
+      "category": "Animation / Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ANIME x HIDIVE",
+      "category": "Anime / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Antiques Road Trip",
+      "category": "Lifestyle / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Antiques Roadshow",
+      "category": "Entertainment / PBS",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Antiques Roadshow UK",
+      "category": "Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Are We There Yet",
+      "category": "Entertainment / Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ARTFLIX Movie Classics",
+      "category": "Classic / Indie Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "AsianCrush — Cineverse Frequency",
+      "category": "Asian Movies / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "At Home with Family Handyman",
+      "category": "Lifestyle / Home",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "At the Movies",
+      "category": "Movies / Discovery",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Ax Men",
+      "category": "Reality / Adventure",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Backstage",
+      "category": "Entertainment Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Baywatch",
+      "category": "Drama / Action",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Adventure",
+      "category": "Adventure / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Drama",
+      "category": "Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Earth",
+      "category": "Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Food",
+      "category": "Cooking & Food",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIII · Cooking & Food"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Home & Garden",
+      "category": "Home & Garden",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIV · Home & Garden"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC News",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Sci-Fi",
+      "category": "Sci-Fi & Fantasy",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVII · Sci-Fi & Fantasy"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BBC Top Gear",
+      "category": "Entertainment / Automotive",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "beIN Sports XTRA",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BET x Tyler Perry Drama",
+      "category": "Reality Drama",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIX · Reality Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Beyond Paranormal",
+      "category": "Alien Encounters",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "IX · Alien Encounters"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Big 12 Studios",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Billiard TV",
+      "category": "Billiards / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BlackPix",
+      "category": "Black Family Entertainment",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVI · Black Family Entertainment"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Bloomberg Originals",
+      "category": "Business / Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BOOT",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Bounce XL",
+      "category": "Entertainment / Black TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Bowling TV",
+      "category": "Bowling / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "BritBox Mysteries",
+      "category": "Mystery / Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Buzzr — LG",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CBS Sports Golazo",
+      "category": "Game Day",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "III · Game Day",
+        "IV · Sports Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CBS Sports HQ",
+      "category": "All Sports",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "I · All Sports"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CGTN English",
+      "category": "Baseline Working",
+      "source": "XE-EBOS catalog / Frequency Cloud",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CHARGE!",
+      "category": "Movies / Action / Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Cine View",
+      "category": "Movies — General",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CINEVAULT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CINEVAULT: Classics",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CINEVAULT: Westerns",
+      "category": "Western Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Circle — Cineverse",
+      "category": "Drama / Western / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Classic Cinema",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Classic Doctor Who",
+      "category": "Classic TV",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXV · Classic TV"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Classic Doctor Who — Tubi",
+      "category": "Sci-Fi",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Classic Family Feud",
+      "category": "Classic TV",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXV · Classic TV"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "CNA Originals",
+      "category": "Documentary / Stories",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Cold Case Files",
+      "category": "Crime & Reality",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VIII · Crime & Reality"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Cold Case Files — LG",
+      "category": "Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Comedy Dynamics — Tubi",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Comedy Plus",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Confess by Nosey",
+      "category": "Entertainment / Talk",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Cook's Country Channel",
+      "category": "Food / Cooking",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Cooking Panda",
+      "category": "Cooking & Food",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIII · Cooking & Food"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "COPS",
+      "category": "Cops & Courtroom",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVII · Cops & Courtroom"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "COPS Reloaded",
+      "category": "Cops & Courtroom",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVII · Cops & Courtroom"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Court TV",
+      "category": "Crime & Reality",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VIII · Crime & Reality",
+        "XVII · Cops & Courtroom"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Court TV — Tubi",
+      "category": "Crime / Court",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Crime Scene TV",
+      "category": "Investigations",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIV · Investigations"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Crime Scenes",
+      "category": "Crime / Thriller",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Crime ThrillHer",
+      "category": "Crime / Thriller",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Crimes Cults Killers by A&E",
+      "category": "Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Crunchyroll",
+      "category": "Anime / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Curiosity Now",
+      "category": "Documentary / Knowledge",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dance Moms",
+      "category": "Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dateline 24/7",
+      "category": "Crime & Reality",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VIII · Crime & Reality",
+        "XIV · Investigations"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "DAZN Ringside",
+      "category": "Fight Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "II · Fight Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Deal or No Deal",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Deal or No Deal USA",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Deal Zone",
+      "category": "Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Declassified",
+      "category": "History / Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dinos 24/7",
+      "category": "Documentary / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Discovery Turbo TV",
+      "category": "Automotive / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Documentary+",
+      "category": "Movie Mix",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VI · Movie Mix",
+        "XXVIII · Documentaries"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dog the Bounty Hunter",
+      "category": "Crime / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dog Whisperer — Cineverse Copy",
+      "category": "Reality / Family",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dog Whisperer with Cesar Millan",
+      "category": "Reality / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dove Channel",
+      "category": "Movies / Feel-good",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "DP World Tour",
+      "category": "Golf / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dr. G: Medical Examiner",
+      "category": "Crime / Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Dry Bar Comedy+",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Duck Dynasty",
+      "category": "Reality / Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "DUST",
+      "category": "Indie / Sci-Fi Films",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Ebony TV by Lionsgate",
+      "category": "Black Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "V · Black Cinema"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "EBS Cinema",
+      "category": "Movies / Cinema",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Electric Now",
+      "category": "Action / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Emeril Lagasse",
+      "category": "Food / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Epic Crimes",
+      "category": "Crime / Mystery",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ESPN 8: The Ocho",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ESPN8: The Ocho",
+      "category": "All Sports",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "I · All Sports",
+        "II · Fight Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "F1 Channel",
+      "category": "Motorsports / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Family Unscripted",
+      "category": "Reality Drama",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIX · Reality Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Fear Factor",
+      "category": "Reality / Competition",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Fear Factor USA — Tubi",
+      "category": "Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Black TV",
+      "category": "Black Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "V · Black Cinema"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Classic TV",
+      "category": "Classic TV",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXV · Classic TV"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Free Movies",
+      "category": "Movie Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XI · Movie Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Horror",
+      "category": "Scary Nights",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIII · Scary Nights"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Kids",
+      "category": "Kids & Family",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXX · Kids & Family"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Sci-Fi",
+      "category": "Sci-Fi & Fantasy",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVII · Sci-Fi & Fantasy"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise True Crime",
+      "category": "Investigations",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIV · Investigations"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FilmRise Western",
+      "category": "Westerns",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VII · Westerns"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Fireplace TV",
+      "category": "Ambiance",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FOX SOUL",
+      "category": "Black Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "FOX Sports on Tubi",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Fox Weather",
+      "category": "Weather / News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Free Movies Plus",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Fresh Movies",
+      "category": "Movie Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XI · Movie Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Fubo Sports",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Game Show Central",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Garden with Monty Don",
+      "category": "Home & Garden",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIV · Home & Garden"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "GET Comedy",
+      "category": "Comedy / Classics",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Ghost Hunters",
+      "category": "Paranormal / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "GoTraveler",
+      "category": "Travel / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Gravitas Movies",
+      "category": "Movie Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XI · Movie Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "GREAT! Christmas",
+      "category": "Holiday Magic",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XX · Holiday Magic"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "GREAT! Movies UK",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Great! Mystery",
+      "category": "Mystery & Suspense",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXII · Mystery & Suspense"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "GREAT! romance",
+      "category": "Love Stories",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVIII · Love Stories"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "GRIT",
+      "category": "Westerns",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VII · Westerns"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Grit Xtra",
+      "category": "Westerns / Action",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Grjngo Western Movies",
+      "category": "Movies — Westerns",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Hallmark Movies & More",
+      "category": "Movie Mix",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VI · Movie Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Hallmark Movies & More — FAST",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Haunt TV US",
+      "category": "Paranormal / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "HerSphere — LG distribution",
+      "category": "Movies & Series",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "HerSphere — Tubi distribution",
+      "category": "Movies & Series",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Historian",
+      "category": "Documentary / History",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "History Hit",
+      "category": "Documentaries",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVIII · Documentaries"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Home Cooking",
+      "category": "Cooking & Food",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIII · Cooking & Food"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Home.Made.Nation",
+      "category": "Home & Garden",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIV · Home & Garden"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Homeful",
+      "category": "Home & Garden",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIV · Home & Garden"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Horror by ALTER",
+      "category": "Scary Nights",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIII · Scary Nights"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Horror Stories",
+      "category": "Scary Nights",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIII · Scary Nights"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "How To",
+      "category": "Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Hungry",
+      "category": "Food / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Ice Road Truckers",
+      "category": "Reality / Adventure",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "In the Garage",
+      "category": "Automotive / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "INSP",
+      "category": "Westerns",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VII · Westerns"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Into Crime",
+      "category": "Crime / Mystery",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "InTrouble — Amagi/Cineverse",
+      "category": "Action / Outdoor",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ION",
+      "category": "Drama / Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Ion Mystery",
+      "category": "Mystery & Suspense",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXII · Mystery & Suspense"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ION Plus",
+      "category": "Drama / TV & Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Just for Laughs Gags",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Kartoon Channel!",
+      "category": "Kids / Family",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Kids Movie Club",
+      "category": "Kids & Family",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXX · Kids & Family"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "KidsFlix",
+      "category": "Kids & Family",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXX · Kids & Family"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Kinoteatr",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Laff More",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "LATV — Amagi/Cineverse",
+      "category": "Entertainment / Latino",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Law & Crime — Tubi",
+      "category": "Crime / Court",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Law&Crime",
+      "category": "Crime / Court",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Lifetime Movie Favorites",
+      "category": "Premium-Style Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XII · Premium-Style Cinema",
+        "XIX · Tearjerker Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Lifetime Movies",
+      "category": "Tearjerker Drama",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIX · Tearjerker Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Lifetime Movies Love & Drama",
+      "category": "Love Stories",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVIII · Love Stories"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Live PD Presents",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "LiveNOW from FOX",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Living with Evil",
+      "category": "True Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Lone Star",
+      "category": "Western / Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Love & Marriage",
+      "category": "Gossip & Talk",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "X · Gossip & Talk"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Love after Lockup",
+      "category": "Gossip & Talk",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "X · Gossip & Talk"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Love After Lockup We TV",
+      "category": "Gossip & Talk",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "X · Gossip & Talk"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Love Nature",
+      "category": "Nature Escape",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XV · Nature Escape"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MagellanTV Now",
+      "category": "Documentary / Film",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Majordomo TV with David Chang",
+      "category": "Food / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema",
+      "category": "Black Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "V · Black Cinema",
+        "VI · Movie Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema — Copy 3 Tubi",
+      "category": "Black Cinema",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema — Copy 5 MediaTailor Samsung",
+      "category": "Black Cinema",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema — Roku",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema — Roku alternate",
+      "category": "Black Cinema",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema — Samsung FAST",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Maverick Black Cinema — Tubi",
+      "category": "Black Cinema / Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MCI Television",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MGM Presents: Horror",
+      "category": "Premium-Style Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XII · Premium-Style Cinema"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MGM Presents: Westerns",
+      "category": "Premium-Style Cinema",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XII · Premium-Style Cinema"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Midnight Pulp — Cineverse/Frequency",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Midnight Pulp — Frequency Copy",
+      "category": "Cult / Horror Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Midsomer Murders — Tubi",
+      "category": "Mystery / Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Mix Hollywood",
+      "category": "Hollywood Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MLB",
+      "category": "Baseball / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Modern Marvels",
+      "category": "Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Monster Jam",
+      "category": "Sports / Motorsports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Movies Action",
+      "category": "Action Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere",
+      "category": "Movie Mix",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VI · Movie Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere — Copy 3 Tubi",
+      "category": "Lionsgate Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere — Copy 6 Samsung AU",
+      "category": "Lionsgate Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere — Xumo alternate",
+      "category": "Movies — Lionsgate",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere by Lionsgate",
+      "category": "Movie Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XI · Movie Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere Gold",
+      "category": "Movies / Mystery",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere Samsung AU ALT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere Samsung NZ ALT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere Samsung UK ALT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere US / Tubi",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MovieSphere Xumo ALT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Mr Bean Live Action",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MrBeast",
+      "category": "Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MSG SportsZone",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Mysterious Worlds",
+      "category": "Sci-Fi / Supernatural",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Mystery Science Theater 3000",
+      "category": "Comedy / Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MyTime Movie Network",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MyTime Movie Network — Copy 3 Samsung UK",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MyTime Movie Network — Copy 4 Samsung Brazil",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MyTime Movie Network — Spain/Rakuten Copy",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MyTime Movie Network East",
+      "category": "Movies / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "MyTime Movie Network UK",
+      "category": "Movies / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NASCAR",
+      "category": "Sports / Motorsports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nash Bridges",
+      "category": "Drama / Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nature Moments",
+      "category": "Summer Vibes",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXI · Summer Vibes",
+        "XXXI · Spiritual & Wellness"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nature Time",
+      "category": "Nature Escape",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XV · Nature Escape"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NBC Comedy Vault",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NBC News NOW",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NBC Sports NOW",
+      "category": "Game Day",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "III · Game Day",
+        "IV · Sports Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NEW K.MOVIES",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "News 12 New York",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NFL Channel",
+      "category": "All Sports",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "I · All Sports",
+        "III · Game Day"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NHL",
+      "category": "Hockey / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "NHRA TV",
+      "category": "Sports / Motorsports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nikita",
+      "category": "Action / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nolly Africa",
+      "category": "Black Cinema / African Movies & Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nolly Africa — Cineverse Copy",
+      "category": "African Movies / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nosey",
+      "category": "Reality / Talk",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Nosey — Cineverse Copy",
+      "category": "Crime / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Orbita Chile TV",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Outdoor America (Frequency Cloud)",
+      "category": "Frequency Cloud Network",
+      "source": "XE-EBOS catalog / Frequency Cloud",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "OuterSphere",
+      "category": "Indie / Sci-Fi / Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Overtime",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Pam Grier's Soul Flix",
+      "category": "Black Family Entertainment",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVI · Black Family Entertainment"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Paternity Court",
+      "category": "Cops & Courtroom",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVII · Cops & Courtroom"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Paws & Claws",
+      "category": "Animals / Nature",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PBS Food",
+      "category": "Cooking & Food",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXIII · Cooking & Food"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PBS Genealogy",
+      "category": "Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PBS History",
+      "category": "Documentaries",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVIII · Documentaries"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PBS Nature",
+      "category": "Nature Escape",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XV · Nature Escape",
+        "XXXI · Spiritual & Wellness"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PBS Retro",
+      "category": "Classic TV",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXV · Classic TV"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PBS Science",
+      "category": "Documentaries",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVIII · Documentaries"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "PGA TOUR",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Pickleball TV",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Pluto TV Christmas tutto l'anno",
+      "category": "Holiday Magic",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XX · Holiday Magic"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Pluto TV Family Movie Club",
+      "category": "Kids & Family",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXX · Kids & Family"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Pluto TV Invasion Alien",
+      "category": "Alien Encounters",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "IX · Alien Encounters"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Pointe TV (Pointville SD)",
+      "category": "User Requested Endpoint",
+      "source": "XE-EBOS catalog / Frequency Cloud",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Popcorn Central",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Power Nation",
+      "category": "Automotive / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Project Runway",
+      "category": "Reality / Fashion",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Punjabi Shorts",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "QwestTV — Amagi/Cineverse",
+      "category": "Music / Documentary",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "RACER Select",
+      "category": "Motorsports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Raj Digital Plus",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten Action Movies ALT",
+      "category": "Movies / Action",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten Comedy Movies ALT",
+      "category": "Movies / Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten Drama Movies ALT",
+      "category": "Movies / Drama",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten Top Movies ALT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten TV Action Movies",
+      "category": "Action Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten TV Comedy Movies",
+      "category": "Comedy Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten TV Drama Movies",
+      "category": "Drama Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten TV Nordic Films",
+      "category": "Indie / Nordic Films",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten TV Top Movies",
+      "category": "Top Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Rakuten TV Top Movies — current alternate",
+      "category": "Movies — General",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Real Crime Uncovered",
+      "category": "Investigations",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIV · Investigations"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Reelz Famous & Infamous",
+      "category": "Entertainment / True Stories",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "RetroCrush",
+      "category": "Drama / Movies / Anime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "RetroCrush — CloudFront Copy",
+      "category": "Classic Anime / Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Reuters",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "RugbyPass TV",
+      "category": "Rugby / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Runtime Romance",
+      "category": "Love Stories",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVIII · Love Stories",
+        "XIX · Tearjerker Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Runtime Thriller",
+      "category": "Mystery & Suspense",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXII · Mystery & Suspense"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "RYZ Sports",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Scares by Shudder",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Screambox TV",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ScreamIN — Rakuten/Amagi",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Scripps News",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Shades of Black",
+      "category": "Black Family Entertainment",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVI · Black Family Entertainment"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Shout! Factory TV",
+      "category": "Movies — Cult / Classics",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Shout! Movies",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Silent Witness and New Tricks",
+      "category": "Mystery / Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "SNL Vault",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sony One Favoris",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sony One Favoris ALT",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sony One Hits Action",
+      "category": "Action Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sony One Hits Action ALT",
+      "category": "Movies / Action",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sony One Hits Comedie ALT",
+      "category": "Movies / Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "South Station",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Space & Beyond",
+      "category": "Sci-Fi & Fantasy",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVII · Sci-Fi & Fantasy"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Spark TV Light & Love",
+      "category": "Tearjerker Drama",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XIX · Tearjerker Drama"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sparkle Movies - Light & Love",
+      "category": "Love Stories",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVIII · Love Stories"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "SportsGrid",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "SportsGrid (Frequency Portal)",
+      "category": "Frequency Cloud Network",
+      "source": "XE-EBOS catalog / Frequency Cloud",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stadium",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray 2000s",
+      "category": "Music",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray DJAZZ",
+      "category": "Stingray Music",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVI · Stingray Music"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray Greatest Hits",
+      "category": "Stingray Music",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVI · Stingray Music",
+        "XXI · Summer Vibes"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray Holidayscapes",
+      "category": "Holiday Magic",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XX · Holiday Magic"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray Hot Country",
+      "category": "Stingray Music",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVI · Stingray Music",
+        "XXI · Summer Vibes"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray Naturescape",
+      "category": "Nature Escape",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XV · Nature Escape",
+        "XXXI · Spiritual & Wellness"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray Soul Storm",
+      "category": "Stingray Music",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XVI · Stingray Music"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Stingray Today's K-Pop",
+      "category": "Music / K-Pop",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Strongman Champions League",
+      "category": "Sports Mix",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "IV · Sports Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Summer of Movies",
+      "category": "Summer Vibes",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXI · Summer Vibes"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Supermarket Sweep",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Sweet Escapes",
+      "category": "Food / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Swerve Combat",
+      "category": "Combat Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "T2",
+      "category": "Tennis / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Tastemade — Amagi/Cineverse",
+      "category": "Food / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Tastemade Home — Amagi/Cineverse",
+      "category": "Home / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Tastemade Travel — Amagi/Cineverse",
+      "category": "Travel / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Team USA TV",
+      "category": "Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Archive — Cineverse/Frequency",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Asylum Movie Channel — LG FAST",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Bob Ross Channel",
+      "category": "Lifestyle / Art",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Chat Show Channel",
+      "category": "Entertainment / Talk",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Conners",
+      "category": "Comedy",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Country Network",
+      "category": "Music / Country",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Film Detective — Wurl",
+      "category": "Movies / TV",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Hill",
+      "category": "News",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Movie Club — Samsung",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Movie Club +2",
+      "category": "Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The NBA Channel",
+      "category": "All Sports",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "I · All Sports",
+        "III · Game Day"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Price Is Right",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Price Is Right: The Barker Era",
+      "category": "Game Shows",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "The Rifleman",
+      "category": "Classic TV / Western",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "theGrio",
+      "category": "Black News / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Tiny House Nation",
+      "category": "Lifestyle / Home",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "TMZ",
+      "category": "Entertainment / Pop Culture",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Today's Home",
+      "category": "Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Top Rank Classics",
+      "category": "Fight Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "II · Fight Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Top Sci-Fi",
+      "category": "Sci-Fi & Fantasy",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXVII · Sci-Fi & Fantasy"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Torque",
+      "category": "Reality / Automotive",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Total Crime",
+      "category": "Crime / Mystery",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Travel + Adventure",
+      "category": "Travel / Lifestyle",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Tribeca",
+      "category": "Indie / Festival Films",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "TruBlu",
+      "category": "Crime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "TVS Boxing",
+      "category": "Fight Night",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "II · Fight Night"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "UFC",
+      "category": "Combat Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "UnXplained Zone",
+      "category": "Mystery / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Western Classics",
+      "category": "Westerns",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "VII · Westerns"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Wipeout Xtra",
+      "category": "Comedy / Competition",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Women's Sports Network",
+      "category": "Sports Mix",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "IV · Sports Mix"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "World of Love Island",
+      "category": "Gossip & Talk",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "X · Gossip & Talk"
+      ],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "World Poker Tour",
+      "category": "Poker / Sports",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "WORLD PUP",
+      "category": "Family / Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Xtreme Outdoor Presented by HISTORY",
+      "category": "Adventure / Reality",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Xumo Free Action Movies",
+      "category": "Action Movies",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Young Hollywood",
+      "category": "Entertainment",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "Yu-Gi-Oh!",
+      "category": "Entertainment / Anime",
+      "source": "Movie TV 284 import",
+      "collections": [],
+      "playback_status": "not independently verified"
+    },
+    {
+      "name": "ZenLIFE by Stingray",
+      "category": "Spiritual & Wellness",
+      "source": "XE-EBOS Four TV catalog",
+      "collections": [
+        "XXXI · Spiritual & Wellness"
+      ],
+      "playback_status": "not independently verified"
+    }
+  ]
+}
